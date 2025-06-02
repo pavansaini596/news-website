@@ -1,1 +1,1 @@
-# newshub
+# news-website
